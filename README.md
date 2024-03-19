@@ -14,8 +14,7 @@ You can run this in the IDLE:
 <pre>
   If it shows an error then you can type the following in command prompt or terminal:
 </pre>
-<code>
-  pip install tkinter
+<code>pip install tkinter
 </code>
 <pre>
   if it does not show an error, then you are good to go.
