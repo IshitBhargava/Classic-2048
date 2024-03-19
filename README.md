@@ -4,6 +4,7 @@
   To play this game, you will need: 
   Python IDLE.
   </pre>
+__________________________________________________________________________________________________________
 **IMPORTANT:**
 You can run this in the IDLE:
 
@@ -16,3 +17,8 @@ You can run this in the IDLE:
 <code>
   pip install tkinter
 </code>
+<pre>
+  if it does not show an error, then you are good to go.
+</pre>
+__________________________________________________________________________________________________________
+**STEPS:**
