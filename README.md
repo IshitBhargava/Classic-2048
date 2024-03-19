@@ -21,6 +21,21 @@ You can run this in the IDLE:
 </pre>
 ________________________________________________________________________________________________________________
 
+**Installing Libraries:**
+
+<pre>
+To install the libraries, open terminal or command prompt and type the following commands, one-by-one:
+</pre>
+<code>pip install numpy
+</code>
+<code>pip install sounddevice
+</code>
+
+<pre>
+  If it shows an error then you can try again.
+</pre>
+________________________________________________________________________________________________________________
+
 **STEPS:**
 <pre>
   Step 1: Download the code named as "classic 2048"
