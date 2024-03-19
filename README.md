@@ -1,6 +1,11 @@
 # Classic-2048
-**Learn How to make a classic Pong Game:**
-**Steps:**
+**Things Needed:**
 <pre>
-  
-</pre>
+  To play this game, you will need: 
+  Python IDLE.
+  </pre>
+**IMPORTANT:**
+You can run this in the IDLE:
+<code>
+  import tkinter as tk
+</code>
