@@ -9,8 +9,7 @@ ________________________________________________________________________________
 <pre>
 You can run this in the IDLE:
 </pre>
-<code>
-  import tkinter as tk
+<code>import tkinter as tk
 </code>
 <pre>
   If it shows an error then you can type the following in command prompt or terminal:
